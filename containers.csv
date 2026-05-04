@@ -1,0 +1,51 @@
+container_id,size,origin,destination,carrier,arrival_time,dwell_time_hours,yard_row,yard_slot,stack_level,status,weight_tons
+CONT0001,20ft,Shanghai,Agadir,Evergreen,2026-05-03 14:46:02.723989,25.0,B,2,3,delayed,10.8
+CONT0002,20ft,Marseille,Mohammedia,MSC,2026-05-03 08:46:02.724034,31.0,C,2,4,processing,12.0
+CONT0003,20ft,Marseille,Mohammedia,Evergreen,2026-05-01 19:46:02.724048,68.0,E,3,3,waiting,10.4
+CONT0004,40ft HC,Shanghai,Mohammedia,Hapag-Lloyd,2026-05-01 18:46:02.724057,69.0,C,3,2,processing,27.0
+CONT0005,20ft,Shanghai,Mohammedia,CMA CGM,2026-05-01 23:46:02.724065,64.0,D,4,1,delayed,23.4
+CONT0006,40ft HC,Marseille,Casablanca,Evergreen,2026-04-30 13:46:02.724072,98.0,A,17,2,delayed,23.2
+CONT0007,40ft,Hamburg,Casablanca,Maersk,2026-05-01 08:46:02.724080,79.0,C,20,3,ready,8.9
+CONT0008,40ft,Hamburg,Casablanca,Hapag-Lloyd,2026-05-01 10:46:02.724087,77.0,C,17,2,delayed,18.5
+CONT0009,40ft HC,Algeciras,Agadir,Evergreen,2026-04-30 08:46:02.724096,103.0,C,5,1,waiting,27.0
+CONT0010,40ft,Algeciras,Tangier,MSC,2026-05-01 08:46:02.724104,79.0,B,6,4,delayed,24.8
+CONT0011,40ft HC,Hamburg,Agadir,Maersk,2026-05-03 13:46:02.724111,26.0,C,1,1,delayed,26.9
+CONT0012,40ft HC,Algeciras,Kenitra,Evergreen,2026-05-01 22:46:02.724118,65.0,C,2,3,waiting,10.9
+CONT0013,20ft,Shanghai,Agadir,Hapag-Lloyd,2026-05-01 22:46:02.724125,65.0,D,8,3,delayed,24.0
+CONT0014,20ft,Algeciras,Agadir,CMA CGM,2026-04-29 19:46:02.724132,116.0,C,12,2,delayed,10.0
+CONT0015,40ft,Algeciras,Mohammedia,Maersk,2026-05-04 06:46:02.724139,9.0,E,2,1,ready,12.9
+CONT0016,20ft,Shanghai,Kenitra,Evergreen,2026-05-02 02:46:02.724146,61.0,E,15,2,waiting,24.8
+CONT0017,40ft,Shanghai,Mohammedia,CMA CGM,2026-05-04 01:46:02.724153,14.0,B,3,3,ready,21.4
+CONT0018,40ft,Hamburg,Casablanca,Evergreen,2026-04-30 16:46:02.724161,95.0,E,16,1,processing,13.4
+CONT0019,40ft HC,Shanghai,Agadir,Hapag-Lloyd,2026-05-01 23:46:02.724176,64.0,B,3,1,waiting,13.1
+CONT0020,40ft HC,Rotterdam,Tangier,CMA CGM,2026-04-30 09:46:02.724184,102.0,E,2,4,delayed,22.0
+CONT0021,40ft HC,Hamburg,Kenitra,Evergreen,2026-04-30 20:46:02.724191,91.0,E,9,3,delayed,20.2
+CONT0022,40ft,Valencia,Mohammedia,MSC,2026-05-03 03:46:02.724198,36.0,B,7,4,processing,7.3
+CONT0023,40ft HC,Hamburg,Agadir,MSC,2026-05-01 00:46:02.724205,87.0,E,5,1,processing,23.5
+CONT0024,40ft,Shanghai,Kenitra,Maersk,2026-05-02 05:46:02.724211,58.0,A,15,3,ready,22.6
+CONT0025,40ft,Hamburg,Kenitra,CMA CGM,2026-04-30 16:46:02.724218,95.0,B,18,1,ready,25.1
+CONT0026,20ft,Hamburg,Casablanca,MSC,2026-05-02 15:46:02.724225,48.0,A,13,4,waiting,27.3
+CONT0027,20ft,Valencia,Casablanca,CMA CGM,2026-04-30 15:46:02.724232,96.0,A,4,2,processing,11.6
+CONT0028,20ft,Algeciras,Mohammedia,MSC,2026-05-02 08:46:02.724239,55.0,B,7,2,waiting,17.2
+CONT0029,20ft,Hamburg,Agadir,CMA CGM,2026-05-01 03:46:02.724248,84.0,C,4,2,processing,18.2
+CONT0030,40ft,Marseille,Casablanca,Maersk,2026-04-30 17:46:02.724255,94.0,B,10,4,delayed,20.8
+CONT0031,40ft HC,Valencia,Kenitra,Hapag-Lloyd,2026-05-03 09:46:02.724262,30.0,B,17,1,ready,10.2
+CONT0032,40ft HC,Marseille,Agadir,CMA CGM,2026-05-02 09:46:02.724269,54.0,C,4,1,waiting,9.0
+CONT0033,40ft HC,Shanghai,Casablanca,CMA CGM,2026-05-03 17:46:02.724276,22.0,B,6,4,processing,13.1
+CONT0034,40ft,Hamburg,Casablanca,Hapag-Lloyd,2026-05-01 06:46:02.724283,81.0,E,11,1,processing,28.0
+CONT0035,40ft,Algeciras,Tangier,CMA CGM,2026-05-03 15:46:02.724290,24.0,D,20,3,ready,6.2
+CONT0036,40ft,Marseille,Kenitra,Evergreen,2026-05-02 17:46:02.724296,46.0,E,7,2,delayed,16.7
+CONT0037,20ft,Hamburg,Tangier,Hapag-Lloyd,2026-04-30 13:46:02.724303,98.0,D,10,1,delayed,7.7
+CONT0038,40ft,Rotterdam,Mohammedia,Maersk,2026-05-01 06:46:02.724310,81.0,A,17,4,processing,13.8
+CONT0039,20ft,Rotterdam,Tangier,CMA CGM,2026-05-01 01:46:02.724318,86.0,A,9,1,waiting,19.4
+CONT0040,40ft,Shanghai,Kenitra,MSC,2026-05-03 08:46:02.724324,31.0,D,3,2,delayed,18.9
+CONT0041,40ft HC,Valencia,Kenitra,Hapag-Lloyd,2026-04-30 01:46:02.724331,110.0,D,8,3,processing,10.3
+CONT0042,40ft,Hamburg,Tangier,CMA CGM,2026-05-01 13:46:02.724339,74.0,E,8,3,waiting,15.5
+CONT0043,20ft,Marseille,Casablanca,Maersk,2026-05-03 12:46:02.724346,27.0,B,18,4,ready,8.3
+CONT0044,20ft,Algeciras,Mohammedia,CMA CGM,2026-05-02 00:46:02.724352,63.0,A,2,4,waiting,27.8
+CONT0045,40ft,Algeciras,Kenitra,CMA CGM,2026-04-30 23:46:02.724359,88.0,E,7,3,ready,19.8
+CONT0046,20ft,Valencia,Kenitra,MSC,2026-05-02 19:46:02.724365,44.0,C,18,3,processing,17.9
+CONT0047,40ft HC,Valencia,Mohammedia,Hapag-Lloyd,2026-05-04 00:46:02.724372,15.0,D,20,2,delayed,5.5
+CONT0048,40ft HC,Marseille,Mohammedia,CMA CGM,2026-05-01 18:46:02.724379,69.0,E,3,2,waiting,22.5
+CONT0049,40ft HC,Shanghai,Casablanca,Hapag-Lloyd,2026-05-02 00:46:02.724387,63.0,B,16,4,delayed,20.5
+CONT0050,40ft,Hamburg,Mohammedia,Evergreen,2026-05-01 09:46:02.724394,78.0,A,19,1,waiting,16.7

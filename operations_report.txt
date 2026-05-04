@@ -1,0 +1,29 @@
+**Port Yard Operations Report**
+
+**Date:** May 4, 2026
+
+**To:** Port Manager
+
+**Executive Summary:**
+The current port yard status indicates a total of 50 containers, with 16 delayed and 35 exceeding the 48-hour dwell time threshold. The average dwell time has increased to 64.8 hours, with the maximum dwell time reaching 116.0 hours for Container CONT0014, owned by CMA CGM. The total cargo weight in the yard stands at 867.0 tons. This report highlights critical alerts, carrier performance, and recommends actions to mitigate delays and improve overall efficiency.
+
+**Critical Alerts:**
+The following issues require immediate attention:
+
+* 35 containers have exceeded the 48-hour dwell time, resulting in increased storage costs and potential demurrage fees.
+* 16 containers are currently delayed, affecting the overall turnaround time and efficiency of the port operations.
+* Container CONT0014, owned by CMA CGM, has reached a dwell time of 116.0 hours, making it a priority for expedited processing and clearance.
+
+**Carrier Performance Notes:**
+Hapag-Lloyd has been identified as the carrier with the most delays, accounting for a significant portion of the 16 delayed containers. This trend may indicate potential issues with their operational processes, communication, or customs clearance procedures. It is essential to engage with Hapag-Lloyd to discuss and address these delays, ensuring that their containers are processed and cleared in a timely manner.
+
+**Recommended Actions:**
+To address the current situation and improve port yard efficiency, the following actions are recommended:
+
+1. **Expedite clearance and processing** of containers exceeding 48-hour dwell time, prioritizing Container CONT0014.
+2. **Collaborate with Hapag-Lloyd** to identify the root causes of delays and implement corrective measures to minimize future delays.
+3. **Increase yard management resources**, such as equipment and personnel, to streamline container handling and reduce dwell times.
+4. **Implement a dwell time monitoring system** to enable real-time tracking and proactive management of container dwell times.
+5. **Conduct a thorough analysis** of cargo weight distribution and container placement to optimize storage capacity and reduce congestion.
+
+By addressing these critical issues and implementing the recommended actions, we can improve the overall efficiency of the port yard, reduce delays, and enhance the quality of service provided to our customers.
