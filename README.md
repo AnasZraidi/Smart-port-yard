@@ -2,7 +2,8 @@
 
 > AI-powered operations dashboard for port container yard management — built with real-world insight from the Port of Casablanca.
 
-![Dashboard](dashboard.png)
+![Dashboard Overview](dashboard.png)
+![Critical Alerts Table](dashboard2.png)
 
 ## The Problem
 
